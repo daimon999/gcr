@@ -1,3 +1,12 @@
+### 2018-10-16 16:26:51 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181016022808
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20181016022808
+- gcr.io/spinnaker-marketplace/gate:1.2.0-20181016022808
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181016022808
+- gcr.io/spinnaker-marketplace/kayenta:0.4.0-20181016022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20181016022808
+- gcr.io/spinnaker-marketplace/halyard:1.12.0-20181016020509
 ### 2018-10-16 16:23:12 Update:
 
 - gcr.io/linkerd-io/controller:git-37bc8a69
