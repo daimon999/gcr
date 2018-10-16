@@ -1,3 +1,47 @@
+### 2018-10-16 16:10:39 Update:
+
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-amd64:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-scheduler:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm64:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-proxy-s390x:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-s390x:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-proxy-arm:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-proxy-amd64:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-proxy:v1.13.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-arm64:v1.13.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager:v1.13.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-amd64:v1.13.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-s390x:v1.13.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-ppc64le:v1.13.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-arm:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-proxy-arm64:v1.13.0-alpha.1
+- gcr.io/google-containers/debian-hyperkube-base-amd64:0.11.0
+- gcr.io/google-containers/hyperkube:v1.13.0-alpha.1
+- gcr.io/google-containers/debian-hyperkube-base:0.11.0
+- gcr.io/google-containers/debian-hyperkube-base-ppc64le:0.11.0
+- gcr.io/google-containers/debian-hyperkube-base-arm:0.11.0
+- gcr.io/google-containers/debian-hyperkube-base-arm64:0.11.0
+- gcr.io/google-containers/hyperkube-amd64:v1.13.0-alpha.1
+- gcr.io/google-containers/hyperkube-ppc64le:v1.13.0-alpha.1
+- gcr.io/google-containers/hyperkube-arm64:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm64:v1.13.0-alpha.1
+- gcr.io/google-containers/debian-hyperkube-base-s390x:0.11.0
+- gcr.io/google-containers/hyperkube-s390x:v1.13.0-alpha.1
+- gcr.io/google-containers/hyperkube-arm:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-amd64:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-s390x:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-apiserver:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.13.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm:v1.13.0-alpha.1
 ### 2018-10-15 16:10:13 Update:
 
 - gcr.io/istio-release/citadel:collab-gcp-identity-20181014-09-15
