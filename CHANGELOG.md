@@ -1,3 +1,7 @@
+### 2018-10-18 16:09:21 Update:
+
+- gcr.io/google-containers/coredns:1.2.3
+- gcr.io/google-containers/kube-cross:v1.11.1-2
 ### 2018-10-17 16:30:41 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.6.0-20181017022808
