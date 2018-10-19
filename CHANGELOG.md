@@ -1,3 +1,29 @@
+### 2018-10-19 16:20:27 Update:
+
+- gcr.io/linkerd-io/proxy-init:dev-011346f8-alex
+- gcr.io/linkerd-io/proxy-init:dev-dd8aaf59-alex
+- gcr.io/linkerd-io/proxy:dev-011346f8-alex
+- gcr.io/linkerd-io/proxy-init:git-338848d2
+- gcr.io/linkerd-io/proxy-init:git-87b27739
+- gcr.io/linkerd-io/grafana:dev-011346f8-alex
+- gcr.io/linkerd-io/grafana:dev-dd8aaf59-alex
+- gcr.io/linkerd-io/controller:git-338848d2
+- gcr.io/linkerd-io/grafana:git-338848d2
+- gcr.io/linkerd-io/controller:git-87b27739
+- gcr.io/linkerd-io/proxy:dev-dd8aaf59-alex
+- gcr.io/linkerd-io/grafana:git-87b27739
+- gcr.io/linkerd-io/controller:dev-011346f8-alex
+- gcr.io/linkerd-io/web:git-338848d2
+- gcr.io/linkerd-io/proxy:git-338848d2
+- gcr.io/linkerd-io/proxy:git-87b27739
+- gcr.io/linkerd-io/controller:dev-dd8aaf59-alex
+- gcr.io/linkerd-io/web:dev-011346f8-alex
+- gcr.io/linkerd-io/web:dev-dd8aaf59-alex
+- gcr.io/linkerd-io/web:git-87b27739
+- gcr.io/linkerd-io/cli-bin:dev-dd8aaf59-alex
+- gcr.io/linkerd-io/cli-bin:dev-011346f8-alex
+- gcr.io/linkerd-io/cli-bin:git-338848d2
+- gcr.io/linkerd-io/cli-bin:git-87b27739
 ### 2018-10-19 16:18:43 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20181018-18-53
