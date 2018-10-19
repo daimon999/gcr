@@ -1,3 +1,41 @@
+### 2018-10-19 16:35:17 Update:
+
+- gcr.io/spinnaker-marketplace/igor:0.13.1-20181018104516
+- gcr.io/spinnaker-marketplace/igor:0.13.1-20181018150001
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181018150001
+- gcr.io/spinnaker-marketplace/front50:0.14.0-20181018165957
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181018104516
+- gcr.io/spinnaker-marketplace/front50:0.14.0-20181018150001
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181018150001
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181018150001
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181018104516
+- gcr.io/spinnaker-marketplace/deck:2.5.1-20181018042808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181018104516
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.1-20181018042808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181018165957
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181019022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181018165957
+- gcr.io/spinnaker-marketplace/fiat:1.2.0-20181018104516
+- gcr.io/spinnaker-marketplace/fiat:1.2.0-20181018150001
+- gcr.io/spinnaker-marketplace/halyard:1.12.0-20181018104516
+- gcr.io/spinnaker-marketplace/halyard:1.12.0-20181018115029
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181019022808
+- gcr.io/spinnaker-marketplace/halyard:1.12.0-20181018150001
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181018165957
+- gcr.io/spinnaker-marketplace/echo:2.2.0-20181018104516
+- gcr.io/spinnaker-marketplace/halyard:1.12.0-20181018165957
+- gcr.io/spinnaker-marketplace/halyard:1.12.0-20181018125437
+- gcr.io/spinnaker-marketplace/echo:2.2.0-20181018150001
+- gcr.io/spinnaker-marketplace/rosco:0.8.1-20181018104516
+- gcr.io/spinnaker-marketplace/rosco:0.8.1-20181018150001
+- gcr.io/spinnaker-marketplace/orca:1.0.3-20181019031607
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181018104516
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181018165957
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181018150001
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181018111057
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181018125437
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181018150001
+- gcr.io/spinnaker-marketplace/front50:0.14.0-20181018104516
 ### 2018-10-19 16:20:27 Update:
 
 - gcr.io/linkerd-io/proxy-init:dev-011346f8-alex
