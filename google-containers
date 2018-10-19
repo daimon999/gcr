@@ -1174,6 +1174,7 @@
     "coredns:1.1.3__s390x_linux",
     "coredns:1.2.2",
     "coredns:1.2.3",
+    "coredns:1.2.4",
     "cos-kernel-headers:20180717-R00-00",
     "cos-kernel-headers:20180720-R00-00",
     "cos-kernel-headers:20180816-R01-00",

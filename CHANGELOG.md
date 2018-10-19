@@ -1,3 +1,6 @@
+### 2018-10-19 16:09:18 Update:
+
+- gcr.io/google-containers/coredns:1.2.4
 ### 2018-10-18 16:33:55 Update:
 
 - gcr.io/spinnaker-marketplace/igor:0.13.1-20181017123157
