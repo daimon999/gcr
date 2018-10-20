@@ -1,3 +1,11 @@
+### 2018-10-20 16:07:25 Update:
+
+- gcr.io/google-containers/debian-base:0.4.0
+- gcr.io/google-containers/debian-base-arm64:0.4.0
+- gcr.io/google-containers/debian-base-arm:0.4.0
+- gcr.io/google-containers/debian-base-s390x:0.4.0
+- gcr.io/google-containers/debian-base-amd64:0.4.0
+- gcr.io/google-containers/debian-base-ppc64le:0.4.0
 ### 2018-10-19 16:35:17 Update:
 
 - gcr.io/spinnaker-marketplace/igor:0.13.1-20181018104516
