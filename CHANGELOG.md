@@ -1,3 +1,6 @@
+### 2018-10-21 16:12:20 Update:
+
+- gcr.io/linkerd-io/controller:git-e69da1b8
 ### 2018-10-21 16:11:52 Update:
 
 - gcr.io/istio-release/mixer:release-1.1-latest-daily
