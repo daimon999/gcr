@@ -1,3 +1,35 @@
+### 2018-10-24 16:17:59 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-e1671397
+- gcr.io/linkerd-io/proxy-init:git-4486d543
+- gcr.io/linkerd-io/proxy-init:git-8ed75322
+- gcr.io/linkerd-io/proxy-init:git-b0b30ce7
+- gcr.io/linkerd-io/proxy-init:git-1922dc0a
+- gcr.io/linkerd-io/grafana:git-8ed75322
+- gcr.io/linkerd-io/grafana:git-b0b30ce7
+- gcr.io/linkerd-io/grafana:git-4486d543
+- gcr.io/linkerd-io/grafana:git-e1671397
+- gcr.io/linkerd-io/proxy:git-1922dc0a
+- gcr.io/linkerd-io/grafana:git-1922dc0a
+- gcr.io/linkerd-io/web:git-b0b30ce7
+- gcr.io/linkerd-io/web:git-4486d543
+- gcr.io/linkerd-io/web:git-8ed75322
+- gcr.io/linkerd-io/web:git-e1671397
+- gcr.io/linkerd-io/controller:git-b0b30ce7
+- gcr.io/linkerd-io/controller:git-4486d543
+- gcr.io/linkerd-io/web:git-1922dc0a
+- gcr.io/linkerd-io/controller:git-1922dc0a
+- gcr.io/linkerd-io/controller:git-8ed75322
+- gcr.io/linkerd-io/cli-bin:git-8ed75322
+- gcr.io/linkerd-io/cli-bin:git-b0b30ce7
+- gcr.io/linkerd-io/controller:git-e1671397
+- gcr.io/linkerd-io/cli-bin:git-4486d543
+- gcr.io/linkerd-io/proxy:git-4486d543
+- gcr.io/linkerd-io/proxy:git-8ed75322
+- gcr.io/linkerd-io/cli-bin:git-1922dc0a
+- gcr.io/linkerd-io/proxy:git-e1671397
+- gcr.io/linkerd-io/proxy:git-b0b30ce7
+- gcr.io/linkerd-io/cli-bin:git-e1671397
 ### 2018-10-24 16:16:17 Update:
 
 - gcr.io/istio-release/test_policybackend:1.1.0-hklai-00
