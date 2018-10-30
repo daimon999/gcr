@@ -1,3 +1,54 @@
+### 2018-10-30 16:18:35 Update:
+
+- gcr.io/linkerd-io/grafana:git-fb7eae18
+- gcr.io/linkerd-io/controller:git-792081e6
+- gcr.io/linkerd-io/controller:git-fb7eae18
+- gcr.io/linkerd-io/controller:git-d8998182
+- gcr.io/linkerd-io/controller:git-1b2b0298
+- gcr.io/linkerd-io/controller:git-82ca821e
+- gcr.io/linkerd-io/controller:git-622185a4
+- gcr.io/linkerd-io/controller:git-d8b5ebaa
+- gcr.io/linkerd-io/controller:git-f7ca5895
+- gcr.io/linkerd-io/web:git-1b2b0298
+- gcr.io/linkerd-io/web:git-d8998182
+- gcr.io/linkerd-io/web:git-792081e6
+- gcr.io/linkerd-io/web:git-622185a4
+- gcr.io/linkerd-io/web:git-82ca821e
+- gcr.io/linkerd-io/web:git-fb7eae18
+- gcr.io/linkerd-io/web:git-d8b5ebaa
+- gcr.io/linkerd-io/web:git-f7ca5895
+- gcr.io/linkerd-io/grafana:git-d8998182
+- gcr.io/linkerd-io/grafana:git-792081e6
+- gcr.io/linkerd-io/grafana:git-82ca821e
+- gcr.io/linkerd-io/grafana:git-622185a4
+- gcr.io/linkerd-io/grafana:git-1b2b0298
+- gcr.io/linkerd-io/grafana:git-d8b5ebaa
+- gcr.io/linkerd-io/grafana:git-f7ca5895
+- gcr.io/linkerd-io/go-deps:0d7c8b9b
+- gcr.io/linkerd-io/proxy:git-82ca821e
+- gcr.io/linkerd-io/cli-bin:git-792081e6
+- gcr.io/linkerd-io/cli-bin:git-622185a4
+- gcr.io/linkerd-io/cli-bin:git-1b2b0298
+- gcr.io/linkerd-io/cli-bin:git-82ca821e
+- gcr.io/linkerd-io/cli-bin:git-d8998182
+- gcr.io/linkerd-io/cli-bin:git-d8b5ebaa
+- gcr.io/linkerd-io/cli-bin:git-f7ca5895
+- gcr.io/linkerd-io/proxy:git-1b2b0298
+- gcr.io/linkerd-io/cli-bin:git-fb7eae18
+- gcr.io/linkerd-io/proxy:git-622185a4
+- gcr.io/linkerd-io/proxy-init:git-622185a4
+- gcr.io/linkerd-io/proxy:git-792081e6
+- gcr.io/linkerd-io/proxy:git-d8998182
+- gcr.io/linkerd-io/proxy:git-d8b5ebaa
+- gcr.io/linkerd-io/proxy-init:git-d8998182
+- gcr.io/linkerd-io/proxy-init:git-792081e6
+- gcr.io/linkerd-io/proxy:git-f7ca5895
+- gcr.io/linkerd-io/proxy-init:git-1b2b0298
+- gcr.io/linkerd-io/proxy-init:git-fb7eae18
+- gcr.io/linkerd-io/proxy:git-fb7eae18
+- gcr.io/linkerd-io/proxy-init:git-82ca821e
+- gcr.io/linkerd-io/proxy-init:git-f7ca5895
+- gcr.io/linkerd-io/proxy-init:git-d8b5ebaa
 ### 2018-10-30 16:14:53 Update:
 
 - gcr.io/istio-release/mixer:release-1.1-20181029-10-38
