@@ -1,3 +1,6 @@
+### 2018-10-31 16:11:07 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.1
 ### 2018-10-30 16:25:19 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.3.0-20181029145946
