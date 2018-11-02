@@ -1,3 +1,6 @@
+### 2018-11-02 16:13:02 Update:
+
+- gcr.io/google-containers/netd-amd64:0.1.9
 ### 2018-11-01 16:31:04 Update:
 
 - gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.1-20181101022809
