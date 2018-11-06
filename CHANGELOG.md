@@ -1,3 +1,7 @@
+### 2018-11-06 16:17:55 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.4.0
+- gcr.io/google-containers/kube-cross:v1.11.2-1
 ### 2018-11-05 16:19:59 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.0-20181104-09-15
