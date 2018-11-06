@@ -1,3 +1,15 @@
+### 2018-11-06 16:26:05 Update:
+
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181106022809
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181106022809
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181106022809
+- gcr.io/spinnaker-marketplace/igor:0.14.0-20181106022809
+- gcr.io/spinnaker-marketplace/fiat:1.2.0-20181106022809
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181106022809
+- gcr.io/spinnaker-marketplace/front50:0.14.0-20181106022809
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181106022809
+- gcr.io/spinnaker-marketplace/echo:2.2.0-20181106022809
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181106022809
 ### 2018-11-06 16:22:48 Update:
 
 - gcr.io/istio-release/mixer:master-20181105-09-15
