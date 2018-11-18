@@ -1,3 +1,7 @@
+### 2018-11-18 16:27:58 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.5-20181117042807
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.4-20181117042807
 ### 2018-11-18 16:26:30 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.0-20181117-09-15
