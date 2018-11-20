@@ -1,3 +1,13 @@
+### 2018-11-20 16:34:01 Update:
+
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181119133317
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181120022808
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181119145100
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181120022808
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181120022808
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181119145100
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181119133317
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181119113323
 ### 2018-11-20 16:30:38 Update:
 
 - gcr.io/linkerd-io/proxy-init:git-7a7f6b6e
