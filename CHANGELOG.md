@@ -1,3 +1,11 @@
+### 2018-11-20 16:30:38 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-7a7f6b6e
+- gcr.io/linkerd-io/cli-bin:git-7a7f6b6e
+- gcr.io/linkerd-io/web:git-7a7f6b6e
+- gcr.io/linkerd-io/proxy:git-7a7f6b6e
+- gcr.io/linkerd-io/grafana:git-7a7f6b6e
+- gcr.io/linkerd-io/controller:git-7a7f6b6e
 ### 2018-11-20 16:29:52 Update:
 
 - gcr.io/istio-release/node-agent-k8s:master-20181119-09-15
