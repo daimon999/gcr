@@ -1,3 +1,7 @@
+### 2018-11-20 16:22:11 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.13.0-alpha.1
+- gcr.io/google-containers/cluster-autoscaler:v1.13.0.alpha.1
 ### 2018-11-19 16:27:18 Update:
 
 - gcr.io/istio-release/citadel:master-20181118-09-15

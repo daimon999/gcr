@@ -1155,6 +1155,8 @@
     "cluster-autoscaler:v1.12.0",
     "cluster-autoscaler:v1.12.0-beta.1",
     "cluster-autoscaler:v1.12.1",
+    "cluster-autoscaler:v1.13.0-alpha.1",
+    "cluster-autoscaler:v1.13.0.alpha.1",
     "cluster-autoscaler:v1.2.0",
     "cluster-autoscaler:v1.2.0-beta1",
     "cluster-autoscaler:v1.2.0-rc1",
