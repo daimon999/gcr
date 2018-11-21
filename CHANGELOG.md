@@ -1,3 +1,22 @@
+### 2018-11-21 16:29:13 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-297cb570
+- gcr.io/linkerd-io/cli-bin:git-2ada1c38
+- gcr.io/linkerd-io/grafana:git-2d9b9863
+- gcr.io/linkerd-io/web:git-90323c62
+- gcr.io/linkerd-io/controller:git-297cb570
+- gcr.io/linkerd-io/web:git-297cb570
+- gcr.io/linkerd-io/grafana:git-297cb570
+- gcr.io/linkerd-io/grafana:git-90323c62
+- gcr.io/linkerd-io/cli-bin:git-2d9b9863
+- gcr.io/linkerd-io/proxy:git-297cb570
+- gcr.io/linkerd-io/controller:git-2ada1c38
+- gcr.io/linkerd-io/proxy:git-90323c62
+- gcr.io/linkerd-io/controller:git-90323c62
+- gcr.io/linkerd-io/controller:git-2d9b9863
+- gcr.io/linkerd-io/proxy-init:git-297cb570
+- gcr.io/linkerd-io/proxy-init:git-90323c62
+- gcr.io/linkerd-io/cli-bin:git-90323c62
 ### 2018-11-21 16:27:34 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20181120-09-15
