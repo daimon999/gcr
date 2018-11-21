@@ -1,3 +1,11 @@
+### 2018-11-21 16:33:06 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.0.0-20181121022808
+- gcr.io/spinnaker-marketplace/orca:2.0.0-20181121022808
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181121022808
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181121022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181121022808
+- gcr.io/spinnaker-marketplace/halyard:1.13.0-20181121020508
 ### 2018-11-21 16:29:13 Update:
 
 - gcr.io/linkerd-io/cli-bin:git-297cb570
