@@ -1,3 +1,53 @@
+### 2018-11-25 16:30:15 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-52ec7dda
+- gcr.io/linkerd-io/proxy-init:git-fe7449f3
+- gcr.io/linkerd-io/proxy-init:git-81e02d75
+- gcr.io/linkerd-io/proxy-init:git-8544843f
+- gcr.io/linkerd-io/proxy-init:git-7492ff78
+- gcr.io/linkerd-io/proxy-init:git-b13bf0ac
+- gcr.io/linkerd-io/cli-bin:git-7492ff78
+- gcr.io/linkerd-io/web:git-3a454acd
+- gcr.io/linkerd-io/web:git-4f0fb882
+- gcr.io/linkerd-io/web:git-7492ff78
+- gcr.io/linkerd-io/web:git-52ec7dda
+- gcr.io/linkerd-io/cli-bin:git-81e02d75
+- gcr.io/linkerd-io/cli-bin:git-4f0fb882
+- gcr.io/linkerd-io/cli-bin:git-52ec7dda
+- gcr.io/linkerd-io/cli-bin:git-3a454acd
+- gcr.io/linkerd-io/cli-bin:git-8544843f
+- gcr.io/linkerd-io/cli-bin:git-b13bf0ac
+- gcr.io/linkerd-io/cli-bin:git-fe7449f3
+- gcr.io/linkerd-io/proxy:git-81e02d75
+- gcr.io/linkerd-io/proxy:git-8544843f
+- gcr.io/linkerd-io/proxy:git-4f0fb882
+- gcr.io/linkerd-io/proxy:git-52ec7dda
+- gcr.io/linkerd-io/proxy:git-3a454acd
+- gcr.io/linkerd-io/proxy:git-7492ff78
+- gcr.io/linkerd-io/proxy:git-b13bf0ac
+- gcr.io/linkerd-io/web:git-81e02d75
+- gcr.io/linkerd-io/web:git-8544843f
+- gcr.io/linkerd-io/web:git-b13bf0ac
+- gcr.io/linkerd-io/proxy:git-fe7449f3
+- gcr.io/linkerd-io/web:git-fe7449f3
+- gcr.io/linkerd-io/grafana:git-7492ff78
+- gcr.io/linkerd-io/grafana:git-3a454acd
+- gcr.io/linkerd-io/grafana:git-fe7449f3
+- gcr.io/linkerd-io/grafana:git-4f0fb882
+- gcr.io/linkerd-io/grafana:git-8544843f
+- gcr.io/linkerd-io/grafana:git-52ec7dda
+- gcr.io/linkerd-io/grafana:git-81e02d75
+- gcr.io/linkerd-io/grafana:git-b13bf0ac
+- gcr.io/linkerd-io/proxy-init:git-4f0fb882
+- gcr.io/linkerd-io/proxy-init:git-3a454acd
+- gcr.io/linkerd-io/controller:git-7492ff78
+- gcr.io/linkerd-io/controller:git-81e02d75
+- gcr.io/linkerd-io/controller:git-3a454acd
+- gcr.io/linkerd-io/controller:git-4f0fb882
+- gcr.io/linkerd-io/controller:git-fe7449f3
+- gcr.io/linkerd-io/controller:git-52ec7dda
+- gcr.io/linkerd-io/controller:git-b13bf0ac
+- gcr.io/linkerd-io/controller:git-8544843f
 ### 2018-11-25 16:28:38 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.1-20181124-09-15
