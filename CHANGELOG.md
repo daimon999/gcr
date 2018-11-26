@@ -1,3 +1,50 @@
+### 2018-11-26 16:31:47 Update:
+
+- gcr.io/istio-release/citadel:krishna-test2
+- gcr.io/istio-release/citadel:release-1.0-20181125-09-15
+- gcr.io/istio-release/citadel-test:release-1.0-20181125-09-15
+- gcr.io/istio-release/proxy_init:release-1.1-20181125-09-15
+- gcr.io/istio-release/proxy_init:release-1.0-20181125-09-15
+- gcr.io/istio-release/proxy_init:krishna-test2
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20181125-09-15
+- gcr.io/istio-release/node-agent-k8s:krishna-test2
+- gcr.io/istio-release/proxytproxy:release-1.1-20181125-09-15
+- gcr.io/istio-release/proxytproxy:krishna-test2
+- gcr.io/istio-release/node-agent:release-1.0-20181125-09-15
+- gcr.io/istio-release/citadel:release-1.1-20181125-09-15
+- gcr.io/istio-release/pilot:krishna-test2
+- gcr.io/istio-release/pilot:release-1.0-20181125-09-15
+- gcr.io/istio-release/pilot:release-1.1-20181125-09-15
+- gcr.io/istio-release/servicegraph_debug:release-1.0-20181125-09-15
+- gcr.io/istio-release/proxy_debug:krishna-test2
+- gcr.io/istio-release/proxy_debug:release-1.0-20181125-09-15
+- gcr.io/istio-release/proxyv2:krishna-test2
+- gcr.io/istio-release/proxyv2:release-1.0-20181125-09-15
+- gcr.io/istio-release/proxy_debug:release-1.1-20181125-09-15
+- gcr.io/istio-release/proxyv2:release-1.1-20181125-09-15
+- gcr.io/istio-release/servicegraph:krishna-test2
+- gcr.io/istio-release/servicegraph:release-1.0-20181125-09-15
+- gcr.io/istio-release/servicegraph:release-1.1-20181125-09-15
+- gcr.io/istio-release/app:krishna-test2
+- gcr.io/istio-release/app:release-1.0-20181125-09-15
+- gcr.io/istio-release/app:release-1.1-20181125-09-15
+- gcr.io/istio-release/node-agent-test:release-1.0-20181125-09-15
+- gcr.io/istio-release/mixer_codegen:release-1.1-20181125-09-15
+- gcr.io/istio-release/test_policybackend:krishna-test2
+- gcr.io/istio-release/test_policybackend:release-1.1-20181125-09-15
+- gcr.io/istio-release/test_policybackend:release-1.0-20181125-09-15
+- gcr.io/istio-release/kubectl:krishna-test2
+- gcr.io/istio-release/sidecar_injector:krishna-test2
+- gcr.io/istio-release/kubectl:release-1.1-20181125-09-15
+- gcr.io/istio-release/sidecar_injector:release-1.0-20181125-09-15
+- gcr.io/istio-release/sidecar_injector:release-1.1-20181125-09-15
+- gcr.io/istio-release/mixer_debug:release-1.0-20181125-09-15
+- gcr.io/istio-release/mixer:krishna-test2
+- gcr.io/istio-release/mixer:release-1.0-20181125-09-15
+- gcr.io/istio-release/mixer:release-1.1-20181125-09-15
+- gcr.io/istio-release/galley:release-1.0-20181125-09-15
+- gcr.io/istio-release/galley:krishna-test2
+- gcr.io/istio-release/galley:release-1.1-20181125-09-15
 ### 2018-11-25 16:34:27 Update:
 
 - gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181124235739
