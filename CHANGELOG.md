@@ -1,3 +1,7 @@
+### 2018-11-26 16:32:19 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181126022808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181126022808
 ### 2018-11-26 16:31:47 Update:
 
 - gcr.io/istio-release/citadel:krishna-test2
