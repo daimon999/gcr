@@ -1,3 +1,23 @@
+### 2018-11-28 16:35:45 Update:
+
+- gcr.io/linkerd-io/controller:git-53fd7b88
+- gcr.io/linkerd-io/cli-bin:git-f8583df4
+- gcr.io/linkerd-io/grafana:git-53fd7b88
+- gcr.io/linkerd-io/cli-bin:git-53fd7b88
+- gcr.io/linkerd-io/grafana:git-d9539bcb
+- gcr.io/linkerd-io/controller:git-f8583df4
+- gcr.io/linkerd-io/proxy-init:git-53fd7b88
+- gcr.io/linkerd-io/cli-bin:git-d9539bcb
+- gcr.io/linkerd-io/grafana:git-f8583df4
+- gcr.io/linkerd-io/proxy-init:git-d9539bcb
+- gcr.io/linkerd-io/proxy-init:git-f8583df4
+- gcr.io/linkerd-io/proxy:git-53fd7b88
+- gcr.io/linkerd-io/proxy:git-d9539bcb
+- gcr.io/linkerd-io/web:git-53fd7b88
+- gcr.io/linkerd-io/proxy:git-f8583df4
+- gcr.io/linkerd-io/controller:git-d9539bcb
+- gcr.io/linkerd-io/web:git-d9539bcb
+- gcr.io/linkerd-io/web:git-f8583df4
 ### 2018-11-28 16:34:28 Update:
 
 - gcr.io/istio-release/galley:master-20181127-09-15
