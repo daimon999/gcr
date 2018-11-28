@@ -1,3 +1,19 @@
+### 2018-11-28 16:34:28 Update:
+
+- gcr.io/istio-release/galley:master-20181127-09-15
+- gcr.io/istio-release/proxy_init:master-20181127-09-15
+- gcr.io/istio-release/node-agent-k8s:master-20181127-09-15
+- gcr.io/istio-release/pilot:master-20181127-09-15
+- gcr.io/istio-release/citadel:master-20181127-09-15
+- gcr.io/istio-release/servicegraph:master-20181127-09-15
+- gcr.io/istio-release/proxyv2:master-20181127-09-15
+- gcr.io/istio-release/sidecar_injector:master-20181127-09-15
+- gcr.io/istio-release/proxytproxy:master-20181127-09-15
+- gcr.io/istio-release/test_policybackend:master-20181127-09-15
+- gcr.io/istio-release/kubectl:master-20181127-09-15
+- gcr.io/istio-release/app:master-20181127-09-15
+- gcr.io/istio-release/mixer:master-20181127-09-15
+- gcr.io/istio-release/proxy_debug:master-20181127-09-15
 ### 2018-11-28 16:32:32 Update:
 
 - gcr.io/google-containers/cloud-controller-manager-s390x:v1.13.0-rc.1
