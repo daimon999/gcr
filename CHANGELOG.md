@@ -1,3 +1,7 @@
+### 2018-11-29 16:27:32 Update:
+
+- gcr.io/google-containers/node-problem-detector:v0.6.1
+- gcr.io/google-containers/cluster-autoscaler:v1.13.0
 ### 2018-11-28 16:40:01 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.6.0-20181128022808
