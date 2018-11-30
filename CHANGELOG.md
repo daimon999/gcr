@@ -1,3 +1,7 @@
+### 2018-11-30 16:27:18 Update:
+
+- gcr.io/google-containers/gke-mpi-metadata-server:76d1aec08eeeab7cdcd4bfe8591f65a35e7437e8
+- gcr.io/google-containers/gke-mpi-metadata-server:v0.1.1
 ### 2018-11-29 16:37:29 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.6.0-20181129022808
