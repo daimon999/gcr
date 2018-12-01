@@ -1,3 +1,6 @@
+### 2018-12-01 16:35:09 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.12.0-rc.1
 ### 2018-12-01 16:34:55 Update:
 
 - gcr.io/google-containers/kube-scheduler-s390x:v1.13.0-rc.2
