@@ -1,3 +1,25 @@
+### 2018-12-01 16:41:12 Update:
+
+- gcr.io/linkerd-io/grafana:git-18a4f99a
+- gcr.io/linkerd-io/grafana:git-0daca555
+- gcr.io/linkerd-io/proxy-init:git-18a4f99a
+- gcr.io/linkerd-io/proxy-init:git-0daca555
+- gcr.io/linkerd-io/cli-bin:git-0daca555
+- gcr.io/linkerd-io/grafana:git-f9d66cf4
+- gcr.io/linkerd-io/proxy-init:git-f9d66cf4
+- gcr.io/linkerd-io/cli-bin:git-18a4f99a
+- gcr.io/linkerd-io/proxy:git-18a4f99a
+- gcr.io/linkerd-io/proxy:git-0daca555
+- gcr.io/linkerd-io/cli-bin:git-f9d66cf4
+- gcr.io/linkerd-io/proxy:git-f9d66cf4
+- gcr.io/linkerd-io/controller:git-0daca555
+- gcr.io/linkerd-io/controller:git-18a4f99a
+- gcr.io/linkerd-io/controller:git-f9d66cf4
+- gcr.io/linkerd-io/web:git-0daca555
+- gcr.io/linkerd-io/web:git-18a4f99a
+- gcr.io/linkerd-io/web:git-f9d66cf4
+- gcr.io/linkerd-io/go-deps:405d2c14
+- gcr.io/linkerd-io/go-deps:caa0345d
 ### 2018-12-01 16:38:55 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.0-20181130-09-15
