@@ -1,3 +1,10 @@
+### 2018-12-04 16:52:35 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181203160341
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181204022808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181204032508
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181203022808
+- gcr.io/spinnaker-marketplace/halyard:1.13.0-20181204020509
 ### 2018-12-04 16:48:56 Update:
 
 - gcr.io/linkerd-io/proxy-init:git-4a9c5d16
