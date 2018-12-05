@@ -1,3 +1,8 @@
+### 2018-12-05 16:28:54 Update:
+
+- gcr.io/google-containers/gke-mpi-metadata-server:a36532e31f945b9b206effe7cdc95fe455410b6d
+- gcr.io/google-containers/gke-mpi-metadata-server:v0.1.2
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:658ad9162cb172b120f8a079eec8ca349c6e6bbf
 ### 2018-12-04 16:52:35 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.6.0-20181203160341
