@@ -1,3 +1,7 @@
+### 2018-12-06 16:31:14 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:007a1ce42cc908eaa13d385afb35df82181c2c37
+- gcr.io/google-containers/gcp-controller-manager:67acdc25162c0ab6a055e6728fe4a7fa527b5f1a
 ### 2018-12-05 16:45:01 Update:
 
 - gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181205022808
