@@ -1,3 +1,9 @@
+### 2018-12-08 16:31:01 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:aaaeb040a9af5f782275cbd5cc610582389578a3
+- gcr.io/google-containers/cluster-autoscaler:v1.13.1
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:d65bdb5dc2ed00db7713fb7ec6346885082a0aea
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:aaaeb040a9af5f782275cbd5cc610582389578a3
 ### 2018-12-07 16:46:00 Update:
 
 - gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181207032510
