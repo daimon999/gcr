@@ -38,6 +38,8 @@
     "tiller:v2.11.0-rc.2",
     "tiller:v2.11.0-rc.3",
     "tiller:v2.11.0-rc.4",
+    "tiller:v2.12",
+    "tiller:v2.12.0",
     "tiller:v2.12.0-rc.1",
     "tiller:v2.12.0-rc.2",
     "tiller:v2.2.0",

@@ -1,3 +1,7 @@
+### 2018-12-08 16:31:17 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.12
+- gcr.io/kubernetes-helm/tiller:v2.12.0
 ### 2018-12-08 16:31:01 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:aaaeb040a9af5f782275cbd5cc610582389578a3
