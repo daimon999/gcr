@@ -12,5 +12,6 @@
     "python2.7:debug",
     "python2.7:latest",
     "python3:debug",
-    "python3:latest"
+    "python3:latest",
+    "static:latest"
 ]

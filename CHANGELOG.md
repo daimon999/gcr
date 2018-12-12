@@ -1,3 +1,6 @@
+### 2018-12-12 16:48:48 Update:
+
+- gcr.io/distroless/static:latest
 ### 2018-12-12 16:48:40 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.6.0-20181212022808
