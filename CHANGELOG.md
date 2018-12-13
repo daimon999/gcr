@@ -1,3 +1,35 @@
+### 2018-12-13 16:52:24 Update:
+
+- gcr.io/linkerd-io/proxy-init:SNAPSHOT-tls-skip-ports
+- gcr.io/linkerd-io/proxy-init:git-fd448966
+- gcr.io/linkerd-io/proxy-init:git-aa5e5f42
+- gcr.io/linkerd-io/proxy-init:git-00de48bd
+- gcr.io/linkerd-io/grafana:SNAPSHOT-tls-skip-ports
+- gcr.io/linkerd-io/proxy-init:git-d847f66e
+- gcr.io/linkerd-io/grafana:git-aa5e5f42
+- gcr.io/linkerd-io/grafana:git-d847f66e
+- gcr.io/linkerd-io/proxy:SNAPSHOT-tls-skip-ports
+- gcr.io/linkerd-io/grafana:git-00de48bd
+- gcr.io/linkerd-io/grafana:git-fd448966
+- gcr.io/linkerd-io/proxy:git-00de48bd
+- gcr.io/linkerd-io/proxy:git-aa5e5f42
+- gcr.io/linkerd-io/web:SNAPSHOT-tls-skip-ports
+- gcr.io/linkerd-io/proxy:git-d847f66e
+- gcr.io/linkerd-io/proxy:git-fd448966
+- gcr.io/linkerd-io/web:git-00de48bd
+- gcr.io/linkerd-io/web:git-aa5e5f42
+- gcr.io/linkerd-io/controller:SNAPSHOT-tls-skip-ports
+- gcr.io/linkerd-io/web:git-d847f66e
+- gcr.io/linkerd-io/web:git-fd448966
+- gcr.io/linkerd-io/cli-bin:SNAPSHOT-tls-skip-ports
+- gcr.io/linkerd-io/controller:git-00de48bd
+- gcr.io/linkerd-io/controller:git-aa5e5f42
+- gcr.io/linkerd-io/controller:git-d847f66e
+- gcr.io/linkerd-io/cli-bin:git-00de48bd
+- gcr.io/linkerd-io/cli-bin:git-aa5e5f42
+- gcr.io/linkerd-io/controller:git-fd448966
+- gcr.io/linkerd-io/cli-bin:git-d847f66e
+- gcr.io/linkerd-io/cli-bin:git-fd448966
 ### 2018-12-13 16:50:27 Update:
 
 - gcr.io/istio-release/citadel-test:release-1.0-20181212-09-15
