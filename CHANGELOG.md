@@ -1,3 +1,7 @@
+### 2018-12-15 16:38:52 Update:
+
+- gcr.io/google-containers/kube-cross:v1.10.6-1
+- gcr.io/google-containers/kube-cross:v1.11.3-1
 ### 2018-12-14 17:05:35 Update:
 
 - gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.0-20181214022808
