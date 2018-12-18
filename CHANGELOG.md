@@ -1,3 +1,21 @@
+### 2018-12-18 17:11:04 Update:
+
+- gcr.io/spinnaker-marketplace/front50:0.13.1-20181217212321
+- gcr.io/spinnaker-marketplace/gate:1.4.0-20181217192627
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20181217184649
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181217184649
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181217202629
+- gcr.io/spinnaker-marketplace/gate:1.4.0-20181217184649
+- gcr.io/spinnaker-marketplace/deck:2.5.5-20181217212321
+- gcr.io/spinnaker-marketplace/echo:2.2.1-20181217192627
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181217202629
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181217184649
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181218022808
+- gcr.io/spinnaker-marketplace/orca:2.1.0-20181217184649
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181218022808
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20181217184649
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20181217093850
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20181217184649
 ### 2018-12-18 17:00:47 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20181217-09-15
