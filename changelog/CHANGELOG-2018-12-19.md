@@ -165,3 +165,24 @@
 - gcr.io/linkerd-io/grafana:git-972eba85
 - gcr.io/linkerd-io/grafana:git-06c15131
 - gcr.io/linkerd-io/grafana:git-e66ff4e8
+### 2018-12-19 16:48:43 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181109230858
+- gcr.io/spinnaker-marketplace/igor:1.0.1-20181218145126
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181218145126
+- gcr.io/spinnaker-marketplace/echo:2.1.3-20181217212321
+- gcr.io/spinnaker-marketplace/echo:2.2.0-20181124235739
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20181218145126
+- gcr.io/spinnaker-marketplace/halyard:0.45.0-20180405030509
+- gcr.io/spinnaker-marketplace/halyard:0.45.0-20180330030510
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-20180325030509
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181218145126
+- gcr.io/spinnaker-marketplace/halyard:0.45.0-20180404030510
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-20180321134158
+- gcr.io/spinnaker-marketplace/halyard:1.3.0
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180317130715
+- gcr.io/spinnaker-marketplace/halyard:1.2.0-20180508030507
+- gcr.io/spinnaker-marketplace/halyard:1.2.0-20180509030508
+- gcr.io/spinnaker-marketplace/halyard:1.2.0-20180505030507
+- gcr.io/spinnaker-marketplace/halyard:1.3.0-20180522030508
+- gcr.io/spinnaker-marketplace/halyard:1.3.0-20180523030507
