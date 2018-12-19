@@ -4,7 +4,7 @@
 
 ### 同步信息
 
-仓库每次同步完成后将会追加 [CHANGELOG](CHANGELOG.md)，同步成功的镜像可从 [CHANGELOG](CHANGELOG.md) 中查询到；仓库不保证镜像完全实时同步，如有紧急需求可提交 issue，或发送邮件到 mritd1234@gmail.com
+仓库每次同步完成后将会追加 [CHANGELOG](changelog)，仓库不保证镜像完全实时同步，如有紧急需求可提交 issue，或发送邮件到 mritd1234@gmail.com
 
 ### 用户信息
 
