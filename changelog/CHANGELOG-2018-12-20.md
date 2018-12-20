@@ -84,3 +84,6 @@
 - gcr.io/google-containers/kube-controller-manager-ppc64le:v1.10.13-beta.0
 - gcr.io/google-containers/hyperkube-arm64:v1.10.13-beta.0
 - gcr.io/google-containers/hyperkube-arm64:v1.10.12
+### 2018-12-20 16:45:46 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.12.1
