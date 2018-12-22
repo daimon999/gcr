@@ -1,6 +1,4 @@
-# GCR 同步仓库
-
-**Build Status: [![Build Status](https://travis-ci.org/mritd/gcrsync.svg?branch=master)](https://travis-ci.org/mritd/gcrsync)**
+# GCR 同步仓库 [![Build Status](https://travis-ci.org/mritd/gcrsync.svg?branch=master)](https://travis-ci.org/mritd/gcrsync)
 
 > 这是一个 Google contaiber registry 镜像同步仓库，目前由 [Travis CI](https://travis-ci.org/mritd/gcrsync) 进行每日自动构建
 
