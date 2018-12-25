@@ -47,3 +47,6 @@
 - gcr.io/istio-release/pilot:release-1.0-20181224-09-15
 - gcr.io/istio-release/node-agent:release-1.0-20181224-09-15
 - gcr.io/istio-release/mixer_debug:release-1.0-20181224-09-15
+### 2018-12-25 16:46:12 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181225022808
