@@ -47,3 +47,7 @@
 - gcr.io/istio-release/proxy_debug:release-1.0-20181230-09-15
 - gcr.io/istio-release/mixer_debug:release-1.0-20181230-09-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20181230-09-15
+### 2018-12-31 16:50:23 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.0-20181231022808
+- gcr.io/spinnaker-marketplace/gate:1.5.0-20181231022808
