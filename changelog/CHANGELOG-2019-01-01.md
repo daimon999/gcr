@@ -47,3 +47,6 @@
 - gcr.io/istio-release/proxyv2:release-1.0-20181231-09-15
 - gcr.io/istio-release/proxyv2:release-1.1-20181231-09-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20181231-09-15
+### 2019-01-01 16:50:51 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.6.0-20190101022808
