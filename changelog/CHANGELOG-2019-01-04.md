@@ -50,3 +50,23 @@
 - gcr.io/istio-release/proxyv2:release-1.0-20190103-09-15
 - gcr.io/istio-release/proxyv2:release-1.1-20190103-09-15
 - gcr.io/istio-release/node-agent-test:release-1.0-20190103-09-15
+### 2019-01-04 16:53:06 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-a609dd58
+- gcr.io/linkerd-io/proxy-init:git-07f27656
+- gcr.io/linkerd-io/proxy-init:git-8639a875
+- gcr.io/linkerd-io/web:git-07f27656
+- gcr.io/linkerd-io/grafana:git-a609dd58
+- gcr.io/linkerd-io/grafana:git-07f27656
+- gcr.io/linkerd-io/grafana:git-8639a875
+- gcr.io/linkerd-io/controller:git-07f27656
+- gcr.io/linkerd-io/controller:git-a609dd58
+- gcr.io/linkerd-io/controller:git-8639a875
+- gcr.io/linkerd-io/web:git-8639a875
+- gcr.io/linkerd-io/proxy:git-07f27656
+- gcr.io/linkerd-io/web:git-a609dd58
+- gcr.io/linkerd-io/proxy:git-8639a875
+- gcr.io/linkerd-io/proxy:git-a609dd58
+- gcr.io/linkerd-io/cli-bin:git-07f27656
+- gcr.io/linkerd-io/cli-bin:git-8639a875
+- gcr.io/linkerd-io/cli-bin:git-a609dd58
