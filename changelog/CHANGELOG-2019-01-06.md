@@ -47,3 +47,9 @@
 - gcr.io/istio-release/proxy_init:master-20190105-09-15
 - gcr.io/istio-release/proxy_init:release-1.1-20190105-09-15
 - gcr.io/istio-release/citadel-test:release-1.0-20190105-09-15
+### 2019-01-06 16:52:58 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.2.0-20190105142809
+- gcr.io/spinnaker-marketplace/kayenta:0.6.0-20190105142809
+- gcr.io/spinnaker-marketplace/kayenta:0.4.1-20190105115745
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190106022809
