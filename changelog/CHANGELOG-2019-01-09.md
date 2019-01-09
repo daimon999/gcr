@@ -88,3 +88,12 @@
 - gcr.io/linkerd-io/cli-bin:git-db0876a0
 - gcr.io/linkerd-io/proxy:git-4e47e261
 - gcr.io/linkerd-io/proxy:git-db0876a0
+### 2019-01-09 17:01:45 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.5.0-20190108142809
+- gcr.io/spinnaker-marketplace/orca:2.2.0-20190109022809
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190108142809
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20190108142809
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20190109022809
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190108142809
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190108142809
