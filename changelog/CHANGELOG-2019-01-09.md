@@ -62,3 +62,29 @@
 - gcr.io/istio-release/servicegraph:release-1.1-20190108-17-47
 - gcr.io/istio-release/citadel:master-20190108-09-15
 - gcr.io/istio-release/citadel:release-1.0-20190108-09-15
+### 2019-01-09 16:57:09 Update:
+
+- gcr.io/linkerd-io/grafana:git-534aeda3
+- gcr.io/linkerd-io/grafana:git-3b6d02a4
+- gcr.io/linkerd-io/controller:git-4e47e261
+- gcr.io/linkerd-io/grafana:git-db0876a0
+- gcr.io/linkerd-io/controller:git-3b6d02a4
+- gcr.io/linkerd-io/grafana:git-4e47e261
+- gcr.io/linkerd-io/web:git-534aeda3
+- gcr.io/linkerd-io/web:git-4e47e261
+- gcr.io/linkerd-io/web:git-3b6d02a4
+- gcr.io/linkerd-io/web:git-db0876a0
+- gcr.io/linkerd-io/proxy-init:git-3b6d02a4
+- gcr.io/linkerd-io/proxy-init:git-534aeda3
+- gcr.io/linkerd-io/proxy-init:git-4e47e261
+- gcr.io/linkerd-io/controller:git-534aeda3
+- gcr.io/linkerd-io/proxy-init:git-db0876a0
+- gcr.io/linkerd-io/controller:git-db0876a0
+- gcr.io/linkerd-io/cli-bin:git-3b6d02a4
+- gcr.io/linkerd-io/cli-bin:git-4e47e261
+- gcr.io/linkerd-io/cli-bin:git-534aeda3
+- gcr.io/linkerd-io/proxy:git-3b6d02a4
+- gcr.io/linkerd-io/proxy:git-534aeda3
+- gcr.io/linkerd-io/cli-bin:git-db0876a0
+- gcr.io/linkerd-io/proxy:git-4e47e261
+- gcr.io/linkerd-io/proxy:git-db0876a0
