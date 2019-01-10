@@ -59,3 +59,11 @@
 - gcr.io/linkerd-io/web:git-2c025d27
 - gcr.io/linkerd-io/grafana:git-2c025d27
 - gcr.io/linkerd-io/controller:git-2c025d27
+### 2019-01-10 17:00:21 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.3.1-20190109142809
+- gcr.io/spinnaker-marketplace/orca:2.2.0-20190109142809
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190109142809
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.3-20190110032509
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190109142809
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190110022809
