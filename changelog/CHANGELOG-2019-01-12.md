@@ -47,3 +47,12 @@
 - gcr.io/istio-release/app:release-1.0-20190111-09-15
 - gcr.io/istio-release/node-agent-test:release-1.0-20190111-09-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20190111-09-15
+### 2019-01-12 16:56:58 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-16169a4f
+- gcr.io/linkerd-io/proxy:git-16169a4f
+- gcr.io/linkerd-io/grafana:git-16169a4f
+- gcr.io/linkerd-io/cli-bin:git-16169a4f
+- gcr.io/linkerd-io/controller:git-281ba37e
+- gcr.io/linkerd-io/web:git-16169a4f
+- gcr.io/linkerd-io/controller:git-16169a4f
