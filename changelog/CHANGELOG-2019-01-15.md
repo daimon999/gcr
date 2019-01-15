@@ -4,3 +4,6 @@
 - gcr.io/google-containers/kube-state-metrics:v1.5.0
 - gcr.io/google-containers/cluster-autoscaler:v1.12.2
 - gcr.io/google-containers/fluentd-elasticsearch:v2.4.0
+### 2019-01-15 16:52:40 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.12.2
