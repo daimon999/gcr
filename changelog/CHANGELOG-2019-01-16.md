@@ -109,3 +109,6 @@
 - gcr.io/istio-release/proxy_debug:master-20190115-16-14
 - gcr.io/istio-release/proxy_debug:release-1.1-20190115-09-15
 - gcr.io/istio-release/proxy_debug:release-1.0-20190115-09-15
+### 2019-01-16 17:05:04 Update:
+
+- gcr.io/linkerd-io/web:git-6a3f4a1a
