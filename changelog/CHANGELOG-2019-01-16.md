@@ -112,3 +112,18 @@
 ### 2019-01-16 17:05:04 Update:
 
 - gcr.io/linkerd-io/web:git-6a3f4a1a
+### 2019-01-16 17:15:42 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190116022808
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190115142808
+- gcr.io/spinnaker-marketplace/orca:1.1.6-20190115073329
+- gcr.io/spinnaker-marketplace/deck:2.5.8-20190115073329
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190116022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190115142808
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190116020508
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190115142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190115022808
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190115145153
+- gcr.io/spinnaker-marketplace/halyard:1.13.1-20190115161217
+- gcr.io/spinnaker-marketplace/halyard:1.13.1
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190115104143
