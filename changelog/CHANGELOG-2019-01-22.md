@@ -47,3 +47,14 @@
 - gcr.io/istio-release/app:master-20190121-09-16
 - gcr.io/istio-release/app:release-1.0-20190121-09-16
 - gcr.io/istio-release/app:release-1.1-20190121-09-16
+### 2019-01-22 17:11:26 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190122022809
+- gcr.io/spinnaker-marketplace/rosco:0.9.0-20190121142808
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190122022809
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190121163358
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190121142808
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20190121163358
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20190122022809
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190122022809
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190121142808
