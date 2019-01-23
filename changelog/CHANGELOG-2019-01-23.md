@@ -53,3 +53,29 @@
 - gcr.io/istio-release/servicegraph:release-1.1-20190122-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190122-09-16
 - gcr.io/istio-release/servicegraph_debug:release-1.0-20190122-09-16
+### 2019-01-23 17:04:46 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-a5628780
+- gcr.io/linkerd-io/cli-bin:git-8463cfda
+- gcr.io/linkerd-io/proxy-init:git-a5628780
+- gcr.io/linkerd-io/proxy-init:git-eacc09b7
+- gcr.io/linkerd-io/proxy-init:git-8463cfda
+- gcr.io/linkerd-io/controller:git-eacc09b7
+- gcr.io/linkerd-io/proxy-init:git-db33a60b
+- gcr.io/linkerd-io/controller:git-8463cfda
+- gcr.io/linkerd-io/controller:git-a5628780
+- gcr.io/linkerd-io/cli-bin:git-db33a60b
+- gcr.io/linkerd-io/controller:git-db33a60b
+- gcr.io/linkerd-io/cli-bin:git-eacc09b7
+- gcr.io/linkerd-io/web:git-8463cfda
+- gcr.io/linkerd-io/web:git-a5628780
+- gcr.io/linkerd-io/web:git-db33a60b
+- gcr.io/linkerd-io/web:git-eacc09b7
+- gcr.io/linkerd-io/proxy:git-8463cfda
+- gcr.io/linkerd-io/proxy:git-a5628780
+- gcr.io/linkerd-io/proxy:git-db33a60b
+- gcr.io/linkerd-io/grafana:git-a5628780
+- gcr.io/linkerd-io/proxy:git-eacc09b7
+- gcr.io/linkerd-io/grafana:git-8463cfda
+- gcr.io/linkerd-io/grafana:git-eacc09b7
+- gcr.io/linkerd-io/grafana:git-db33a60b
