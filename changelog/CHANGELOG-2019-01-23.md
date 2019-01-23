@@ -99,3 +99,6 @@
 - gcr.io/spinnaker-marketplace/kayenta:0.6.0-20190122155243
 - gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190122155243
 - gcr.io/spinnaker-marketplace/halyard:1.15.0-20190122155243
+### 2019-01-23 18:50:05 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.12.3
