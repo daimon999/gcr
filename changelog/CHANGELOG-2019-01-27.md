@@ -47,3 +47,6 @@
 - gcr.io/istio-release/proxy_init:release-1.0-20190126-09-16
 - gcr.io/istio-release/proxy_init:release-1.1-20190126-09-16
 - gcr.io/istio-release/node-agent:release-1.0-20190126-09-16
+### 2019-01-27 17:04:31 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.3.1-20190126042507
