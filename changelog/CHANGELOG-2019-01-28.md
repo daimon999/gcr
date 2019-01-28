@@ -47,3 +47,6 @@
 - gcr.io/istio-release/galley:release-1.0-20190127-09-16
 - gcr.io/istio-release/galley:master-20190127-09-16
 - gcr.io/istio-release/galley:release-1.1-20190127-09-16
+### 2019-01-28 17:04:56 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190127142807
