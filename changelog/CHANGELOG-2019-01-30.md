@@ -92,3 +92,11 @@
 - gcr.io/istio-release/node-agent-k8s:release-1.1-20190129-09-16
 - gcr.io/istio-release/proxytproxy:master-20190129-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190129-09-16
+### 2019-01-30 17:12:20 Update:
+
+- gcr.io/linkerd-io/proxy:git-06f4c10f
+- gcr.io/linkerd-io/cli-bin:git-06f4c10f
+- gcr.io/linkerd-io/web:git-06f4c10f
+- gcr.io/linkerd-io/proxy-init:git-06f4c10f
+- gcr.io/linkerd-io/grafana:git-06f4c10f
+- gcr.io/linkerd-io/controller:git-06f4c10f
