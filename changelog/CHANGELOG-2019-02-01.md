@@ -52,3 +52,19 @@
 - gcr.io/istio-release/citadel:release-1.1-20190131-09-16
 - gcr.io/istio-release/citadel:release-1.0-20190131-09-16
 - gcr.io/istio-release/node-agent-test:release-1.0-20190131-09-16
+### 2019-02-01 17:08:34 Update:
+
+- gcr.io/linkerd-io/cli-bin:edge-19.1.4
+- gcr.io/linkerd-io/proxy-init:edge-19.1.4
+- gcr.io/linkerd-io/controller:edge-19.1.4
+- gcr.io/linkerd-io/web:git-a283dabb
+- gcr.io/linkerd-io/cni-plugin:edge-19.1.4
+- gcr.io/linkerd-io/cni-plugin:git-a283dabb
+- gcr.io/linkerd-io/proxy-init:git-a283dabb
+- gcr.io/linkerd-io/grafana:edge-19.1.4
+- gcr.io/linkerd-io/web:edge-19.1.4
+- gcr.io/linkerd-io/grafana:git-a283dabb
+- gcr.io/linkerd-io/proxy:edge-19.1.4
+- gcr.io/linkerd-io/proxy:git-a283dabb
+- gcr.io/linkerd-io/cli-bin:git-a283dabb
+- gcr.io/linkerd-io/controller:git-a283dabb
