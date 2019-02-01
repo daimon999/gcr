@@ -68,3 +68,19 @@
 - gcr.io/linkerd-io/proxy:git-a283dabb
 - gcr.io/linkerd-io/cli-bin:git-a283dabb
 - gcr.io/linkerd-io/controller:git-a283dabb
+### 2019-02-01 17:20:31 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.4.0-20190131140032
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190131140032
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190201022808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190131142808
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.2-20190131171032
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190131171032
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190131175855
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190201022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190131140032
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190201022808
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190131144124
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190131140032
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190131165730
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190131142808
