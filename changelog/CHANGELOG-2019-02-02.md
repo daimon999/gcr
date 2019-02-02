@@ -134,3 +134,12 @@
 - gcr.io/istio-release/proxyv2:release-1.0-20190201-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190201-09-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190201-09-16
+### 2019-02-02 17:17:13 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-4c019c27
+- gcr.io/linkerd-io/cli-bin:git-4c019c27
+- gcr.io/linkerd-io/proxy:git-4c019c27
+- gcr.io/linkerd-io/cni-plugin:git-4c019c27
+- gcr.io/linkerd-io/web:git-4c019c27
+- gcr.io/linkerd-io/grafana:git-4c019c27
+- gcr.io/linkerd-io/controller:git-4c019c27
