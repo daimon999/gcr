@@ -28,3 +28,7 @@
 - gcr.io/linkerd-io/controller:git-943623e4
 - gcr.io/linkerd-io/web:git-f2ba17d3
 - gcr.io/linkerd-io/controller:git-f2ba17d3
+### 2019-02-03 17:06:40 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190203022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190202142809
