@@ -84,3 +84,9 @@
 - gcr.io/linkerd-io/web:git-79b875a1
 - gcr.io/linkerd-io/web:git-a11b9933
 - gcr.io/linkerd-io/web:git-e531655d
+### 2019-02-07 17:16:21 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190206135506
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190207022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190206144304
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190206103304
