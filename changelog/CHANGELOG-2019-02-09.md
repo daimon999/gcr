@@ -48,3 +48,26 @@
 - gcr.io/istio-release/sidecar_injector:release-1.0-20190208-09-16
 - gcr.io/istio-release/sidecar_injector:master-20190208-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190208-09-16
+### 2019-02-09 17:12:32 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-5ef8f4da
+- gcr.io/linkerd-io/proxy-init:git-030767d6
+- gcr.io/linkerd-io/web:git-030767d6
+- gcr.io/linkerd-io/grafana:git-f6e75ec8
+- gcr.io/linkerd-io/web:git-5ef8f4da
+- gcr.io/linkerd-io/grafana:git-5ef8f4da
+- gcr.io/linkerd-io/grafana:git-030767d6
+- gcr.io/linkerd-io/proxy-init:git-f6e75ec8
+- gcr.io/linkerd-io/web:git-f6e75ec8
+- gcr.io/linkerd-io/proxy:git-030767d6
+- gcr.io/linkerd-io/proxy:git-5ef8f4da
+- gcr.io/linkerd-io/controller:git-5ef8f4da
+- gcr.io/linkerd-io/proxy:git-f6e75ec8
+- gcr.io/linkerd-io/cni-plugin:git-5ef8f4da
+- gcr.io/linkerd-io/cni-plugin:git-030767d6
+- gcr.io/linkerd-io/cni-plugin:git-f6e75ec8
+- gcr.io/linkerd-io/cli-bin:git-5ef8f4da
+- gcr.io/linkerd-io/cli-bin:git-030767d6
+- gcr.io/linkerd-io/cli-bin:git-f6e75ec8
+- gcr.io/linkerd-io/controller:git-030767d6
+- gcr.io/linkerd-io/controller:git-f6e75ec8
