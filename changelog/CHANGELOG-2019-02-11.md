@@ -47,3 +47,6 @@
 - gcr.io/istio-release/servicegraph:release-1.0-20190210-09-16
 - gcr.io/istio-release/servicegraph:release-1.1-20190210-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190210-09-16
+### 2019-02-11 17:11:52 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190211022807
