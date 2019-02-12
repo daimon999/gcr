@@ -101,3 +101,13 @@
 - gcr.io/linkerd-io/cli-bin:git-db747eec
 - gcr.io/linkerd-io/cli-bin:git-4dc204ae
 - gcr.io/linkerd-io/cli-bin:git-e1cead1c
+### 2019-02-12 17:20:56 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190212022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190211142808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190211142808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190212022808
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190212022808
+- gcr.io/spinnaker-marketplace/kayenta:0.7.0-20190212022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212022808
+- gcr.io/spinnaker-marketplace/halyard:1.16.0-20190212020508
