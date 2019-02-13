@@ -136,3 +136,27 @@
 - gcr.io/linkerd-io/proxy-init:git-06562b21
 - gcr.io/linkerd-io/proxy-init:git-56c5ce6a
 - gcr.io/linkerd-io/proxy-init:stable-2.2.0
+### 2019-02-13 15:31:53 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190212113206
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190212103735
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190212154025
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190212174912
+- gcr.io/spinnaker-marketplace/kayenta:0.7.0-20190212103735
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190212105356
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190212103735
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190212103030
+- gcr.io/spinnaker-marketplace/rosco:0.10.0-20190212103030
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212140808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190212142807
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.7-20190212042508
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212103030
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212103735
+- gcr.io/spinnaker-marketplace/rosco:0.10.0-20190212103735
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212142807
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212174912
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190212140808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190212154025
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212180711
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190212103735
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212202654
