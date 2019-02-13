@@ -160,3 +160,8 @@
 - gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212180711
 - gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190212103735
 - gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190212202654
+### 2019-02-13 17:07:05 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190213022808
+- gcr.io/spinnaker-marketplace/deck:2.7.2-20190213030607
+- gcr.io/spinnaker-marketplace/front50:0.15.1-20190213030607
