@@ -86,3 +86,6 @@
 - gcr.io/google-containers/kube-aggregator-s390x:v1.10.14-beta.0
 - gcr.io/google-containers/kube-aggregator-ppc64le:v1.10.13
 - gcr.io/google-containers/kube-aggregator-ppc64le:v1.10.14-beta.0
+### 2019-02-14 17:15:52 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.0-rc.1
