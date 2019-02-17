@@ -47,3 +47,8 @@
 - gcr.io/istio-release/galley:master-20190216-09-16
 - gcr.io/istio-release/galley:release-1.0-20190216-09-16
 - gcr.io/istio-release/galley:release-1.1-20190216-09-16
+### 2019-02-17 17:14:29 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.2-20190217030608
+- gcr.io/spinnaker-marketplace/deck:2.6.6-20190216042507
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190216142808
