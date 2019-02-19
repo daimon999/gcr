@@ -100,3 +100,8 @@
 - gcr.io/linkerd-io/cli-bin:git-b1a6b6ca
 - gcr.io/linkerd-io/cli-bin:git-b3cab724
 - gcr.io/linkerd-io/cli-bin:git-f4a55ede
+### 2019-02-19 17:16:45 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190219022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190218142809
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190219022808
