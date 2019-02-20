@@ -84,3 +84,6 @@
 - gcr.io/google-containers/kube-apiserver-arm64:v1.15.0-alpha.0
 - gcr.io/google-containers/hyperkube-amd64:v1.15.0-alpha.0
 - gcr.io/google-containers/hyperkube:v1.15.0-alpha.0
+### 2019-02-20 17:17:01 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.0-rc.2
