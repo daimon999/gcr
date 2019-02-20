@@ -202,3 +202,8 @@
 - gcr.io/spinnaker-marketplace/front50:0.15.2-20190220030610
 - gcr.io/spinnaker-marketplace/front50:0.16.0-20190220022810
 - gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190219172049
+### 2019-02-20 17:30:56 Update:
+
+- gcr.io/distroless/static:e0330762672c79ab165c85294f3cd02d4a556ef3
+- gcr.io/distroless/static:158ae9cbc2c8f03d944db2b5ee08b5a4cbba9371
+- gcr.io/distroless/static:2919676567198597ec4985fff4cd127a0555a03f
