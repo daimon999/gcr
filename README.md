@@ -13,3 +13,7 @@
 ### 同步工具
 
 同步工具已经开源在 [mritd/gcrsync](https://github.com/mritd/gcrsync)，如想要自行同步可直接使用该工具
+
+### Azure 同步
+
+目前 azure 已经建立了完整的同步仓库，经过测试其已经同步了大部分 gcr.io 镜像，详情[点击这里](http://mirror.azure.cn/help/gcr-proxy-cache.html)；**如果该仓库长期稳定，本项目可能会考虑停止构建**
