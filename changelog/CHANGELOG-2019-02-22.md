@@ -144,3 +144,18 @@
 - gcr.io/linkerd-io/cli-bin:git-bf41a6a8
 - gcr.io/linkerd-io/cli-bin:git-ba8abe8d
 - gcr.io/linkerd-io/cli-bin:git-cc0de8eb
+### 2019-02-22 17:28:51 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.2-20190222030609
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190221132237
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190221132237
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190221153224
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190221132237
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190222022810
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190221153224
+- gcr.io/spinnaker-marketplace/fiat:1.4.0-20190221153224
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190221175302
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190221153224
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190221153224
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190221132237
+- gcr.io/spinnaker-marketplace/halyard:1.16.0-20190221175302
