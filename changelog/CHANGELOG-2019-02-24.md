@@ -132,3 +132,6 @@
 - gcr.io/linkerd-io/cli-bin:git-c8506223
 - gcr.io/linkerd-io/cli-bin:git-e300309a
 - gcr.io/linkerd-io/cli-bin:git-e9e32fe6
+### 2019-02-24 17:22:06 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.6.6-20190223042510
