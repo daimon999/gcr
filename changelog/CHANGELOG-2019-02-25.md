@@ -56,3 +56,6 @@
 - gcr.io/linkerd-io/grafana:git-f7435800
 - gcr.io/linkerd-io/cli-bin:git-f7435800
 - gcr.io/linkerd-io/controller:git-f7435800
+### 2019-02-25 17:18:53 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190225022809
