@@ -6,3 +6,6 @@
 - gcr.io/google-containers/kube-state-metrics-arm64:v1.5.0
 - gcr.io/google-containers/prometheus-to-sd:v0.5.0
 - gcr.io/google-containers/kube-cross:v1.12.0-1
+### 2019-02-28 17:14:26 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.0
