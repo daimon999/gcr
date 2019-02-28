@@ -137,3 +137,9 @@
 - gcr.io/spinnaker-marketplace/clouddriver:4.3.4-20190227192113
 - gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190227182808
 - gcr.io/spinnaker-marketplace/halyard:1.17.0-20190228020509
+### 2019-02-28 17:33:45 Update:
+
+- gcr.io/distroless/static:033387ac8853e6cc1cd47df6c346bc53cbc490d8
+- gcr.io/distroless/static:7895f14762199e9dea4e09b3f0485217af227f26
+- gcr.io/distroless/base:033387ac8853e6cc1cd47df6c346bc53cbc490d8
+- gcr.io/distroless/cc:033387ac8853e6cc1cd47df6c346bc53cbc490d8
