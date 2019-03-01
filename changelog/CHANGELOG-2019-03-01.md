@@ -222,3 +222,15 @@
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190228-09-16
 - gcr.io/istio-release/test_policybackend:release-1.0-20190228-09-16
 - gcr.io/istio-release/test_policybackend:release-1.1-20190228-09-16
+### 2019-03-01 17:43:38 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.5.2-20190301030607
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190301022808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190228182808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190228122808
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190228122808
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190228152808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190228182808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190228152808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190228182808
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.4-20190301030607
