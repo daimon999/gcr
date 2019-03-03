@@ -47,3 +47,12 @@
 - gcr.io/istio-release/proxy_debug:master-20190302-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190302-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190302-09-16
+### 2019-03-03 17:20:22 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-ec51ccf3
+- gcr.io/linkerd-io/proxy-init:git-ec51ccf3
+- gcr.io/linkerd-io/grafana:git-ec51ccf3
+- gcr.io/linkerd-io/proxy:git-ec51ccf3
+- gcr.io/linkerd-io/controller:git-ec51ccf3
+- gcr.io/linkerd-io/web:git-ec51ccf3
+- gcr.io/linkerd-io/cni-plugin:git-ec51ccf3
