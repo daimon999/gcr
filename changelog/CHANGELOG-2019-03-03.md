@@ -56,3 +56,6 @@
 - gcr.io/linkerd-io/controller:git-ec51ccf3
 - gcr.io/linkerd-io/web:git-ec51ccf3
 - gcr.io/linkerd-io/cni-plugin:git-ec51ccf3
+### 2019-03-03 17:21:10 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.5-20190303030608
