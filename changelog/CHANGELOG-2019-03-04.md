@@ -260,3 +260,7 @@
 - gcr.io/linkerd-io/controller:git-d685562a
 - gcr.io/linkerd-io/controller:git-f08b0a6f
 - gcr.io/linkerd-io/controller:git-e7011757
+### 2019-03-04 17:33:20 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190303152807
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190303152807
