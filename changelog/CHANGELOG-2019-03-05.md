@@ -50,3 +50,20 @@
 - gcr.io/istio-release/servicegraph:release-1.1-20190304-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190304-09-16
 - gcr.io/istio-release/servicegraph_debug:release-1.0-20190304-09-16
+### 2019-03-05 17:22:22 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-28fb7259
+- gcr.io/linkerd-io/proxy-identity:git-dc6d4b14
+- gcr.io/linkerd-io/proxy-init:git-dc6d4b14
+- gcr.io/linkerd-io/proxy:git-dc6d4b14
+- gcr.io/linkerd-io/cli-bin:git-dc6d4b14
+- gcr.io/linkerd-io/cni-plugin:git-dc6d4b14
+- gcr.io/linkerd-io/proxy:git-28fb7259
+- gcr.io/linkerd-io/cli-bin:git-28fb7259
+- gcr.io/linkerd-io/cni-plugin:git-28fb7259
+- gcr.io/linkerd-io/grafana:git-dc6d4b14
+- gcr.io/linkerd-io/web:git-dc6d4b14
+- gcr.io/linkerd-io/web:git-28fb7259
+- gcr.io/linkerd-io/grafana:git-28fb7259
+- gcr.io/linkerd-io/controller:git-28fb7259
+- gcr.io/linkerd-io/controller:git-dc6d4b14
