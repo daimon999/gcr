@@ -82,3 +82,22 @@
 - gcr.io/linkerd-io/cli-bin:edge-19.3.2
 - gcr.io/linkerd-io/cli-bin:git-468ad118
 - gcr.io/linkerd-io/cli-bin:git-cbcd2017
+### 2019-03-15 17:40:36 Update:
+
+- gcr.io/spinnaker-marketplace/rosco:0.10.0-20190315030608
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190315022807
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190314152808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190314122808
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190315022807
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190314122808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190314152808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190315022807
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190314182808
+- gcr.io/spinnaker-marketplace/orca:2.5.0-20190314152808
+- gcr.io/spinnaker-marketplace/orca:2.5.0-20190314182808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190314082411
+- gcr.io/spinnaker-marketplace/orca:2.5.0-20190315022807
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190314122808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190314182808
+- gcr.io/spinnaker-marketplace/igor:1.2.0-20190314182808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190314152808
