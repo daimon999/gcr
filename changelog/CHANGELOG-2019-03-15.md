@@ -51,3 +51,34 @@
 - gcr.io/istio-release/mixer_debug:release-1.0-20190314-09-16
 - gcr.io/istio-release/mixer:release-1.0-20190314-09-16
 - gcr.io/istio-release/mixer:release-1.1-20190314-09-16
+### 2019-03-15 17:31:28 Update:
+
+- gcr.io/linkerd-io/pr-listener:latest
+- gcr.io/linkerd-io/proxy-init:git-024a77ec
+- gcr.io/linkerd-io/proxy-init:git-cbcd2017
+- gcr.io/linkerd-io/proxy-init:edge-19.3.2
+- gcr.io/linkerd-io/proxy-init:git-468ad118
+- gcr.io/linkerd-io/cni-plugin:git-024a77ec
+- gcr.io/linkerd-io/cni-plugin:edge-19.3.2
+- gcr.io/linkerd-io/cni-plugin:git-468ad118
+- gcr.io/linkerd-io/grafana:git-024a77ec
+- gcr.io/linkerd-io/cni-plugin:git-cbcd2017
+- gcr.io/linkerd-io/grafana:edge-19.3.2
+- gcr.io/linkerd-io/grafana:git-468ad118
+- gcr.io/linkerd-io/grafana:git-cbcd2017
+- gcr.io/linkerd-io/proxy:edge-19.3.2
+- gcr.io/linkerd-io/proxy:git-024a77ec
+- gcr.io/linkerd-io/proxy:git-468ad118
+- gcr.io/linkerd-io/proxy:git-cbcd2017
+- gcr.io/linkerd-io/controller:git-024a77ec
+- gcr.io/linkerd-io/controller:edge-19.3.2
+- gcr.io/linkerd-io/web:edge-19.3.2
+- gcr.io/linkerd-io/controller:git-468ad118
+- gcr.io/linkerd-io/web:git-024a77ec
+- gcr.io/linkerd-io/web:git-468ad118
+- gcr.io/linkerd-io/controller:git-cbcd2017
+- gcr.io/linkerd-io/web:git-cbcd2017
+- gcr.io/linkerd-io/cli-bin:git-024a77ec
+- gcr.io/linkerd-io/cli-bin:edge-19.3.2
+- gcr.io/linkerd-io/cli-bin:git-468ad118
+- gcr.io/linkerd-io/cli-bin:git-cbcd2017
