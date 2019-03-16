@@ -110,3 +110,11 @@
 - gcr.io/spinnaker-marketplace/deck:2.8.0-20190315152809
 - gcr.io/spinnaker-marketplace/deck:2.8.0-20190315182808
 - gcr.io/spinnaker-marketplace/halyard:1.18.0-20190315152809
+### 2019-03-16 17:44:51 Update:
+
+- gcr.io/distroless/static:0a3d642379d577a09225f1275e5c96e336472dfc
+- gcr.io/distroless/static:9a84d7d9eb1de4e36897ad957e0311c36de82181
+- gcr.io/distroless/base:9a84d7d9eb1de4e36897ad957e0311c36de82181
+- gcr.io/distroless/cc:0a3d642379d577a09225f1275e5c96e336472dfc
+- gcr.io/distroless/base:0a3d642379d577a09225f1275e5c96e336472dfc
+- gcr.io/distroless/cc:9a84d7d9eb1de4e36897ad957e0311c36de82181
