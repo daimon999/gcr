@@ -47,3 +47,7 @@
 - gcr.io/istio-release/test_policybackend:release-1.0-20190323-09-16
 - gcr.io/istio-release/test_policybackend:release-1.1-20190323-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190323-09-16
+### 2019-03-24 17:34:33 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190323191642
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190324040309
