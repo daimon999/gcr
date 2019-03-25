@@ -47,3 +47,7 @@
 - gcr.io/istio-release/proxy_debug:release-1.1-20190324-09-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190324-09-16
 - gcr.io/istio-release/proxytproxy:master-20190324-09-16
+### 2019-03-25 17:35:49 Update:
+
+- gcr.io/linkerd-io/proxy-init:ver-reconnect-backoff
+- gcr.io/linkerd-io/proxy:ver-reconnect-backoff
