@@ -236,3 +236,13 @@
 - gcr.io/linkerd-io/cni-plugin:git-ea07dd39
 - gcr.io/linkerd-io/cni-plugin:git-feede5c3
 - gcr.io/linkerd-io/cni-plugin:git-eda36e32
+### 2019-03-28 19:23:34 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.6.0-20190328012808
+- gcr.io/spinnaker-marketplace/gate:1.7.0-20190328012808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190328012808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190327142808
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.13.0-20190327142808
+- gcr.io/spinnaker-marketplace/orca:2.6.0-20190327142808
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190328012808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190327162808
