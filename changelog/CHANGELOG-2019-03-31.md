@@ -47,3 +47,6 @@
 - gcr.io/istio-release/proxy_debug:release-1.1-20190330-09-16
 - gcr.io/istio-release/proxyv2:release-1.0-20190330-09-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190330-09-16
+### 2019-03-31 17:35:58 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190331012808
