@@ -47,3 +47,7 @@
 - gcr.io/istio-release/proxy_debug:master-20190331-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190331-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190331-09-16
+### 2019-04-01 17:38:25 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.6.0-20190331142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190401012809
