@@ -216,3 +216,12 @@
 - gcr.io/linkerd-io/web:git-b454f8fb
 - gcr.io/linkerd-io/web:git-f7891647
 - gcr.io/linkerd-io/web:git-d74ca1ba
+### 2019-04-02 17:54:47 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190401162808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190402012808
+- gcr.io/spinnaker-marketplace/gate:1.7.0-20190402050308
+- gcr.io/spinnaker-marketplace/orca:2.6.0-20190402050308
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190401142808
+- gcr.io/spinnaker-marketplace/halyard:1.19.0-20190402012808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190401142808
