@@ -314,3 +314,14 @@
 - gcr.io/linkerd-io/grafana:git-e395803c
 - gcr.io/linkerd-io/grafana:git-ff99ca3a
 - gcr.io/linkerd-io/grafana:git-d3b0d39f
+### 2019-04-09 18:03:51 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190408142808
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190409012808
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190409012808
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190408162808
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190408142808
+- gcr.io/spinnaker-marketplace/gate:1.8.0-20190409012808
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190409012808
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190408142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190408142808
