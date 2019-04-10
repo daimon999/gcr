@@ -1,0 +1,25 @@
+### 2019-04-10 17:36:38 Update:
+
+- gcr.io/istio-release/node-agent:release-1.0-20190410-09-16
+- gcr.io/istio-release/install-cni:master-20190410-09-16
+- gcr.io/istio-release/mixer_codegen:master-20190410-09-16
+- gcr.io/istio-release/mixer:release-1.0-20190410-09-16
+- gcr.io/istio-release/mixer:master-20190410-09-16
+- gcr.io/istio-release/citadel-test:release-1.0-20190410-09-16
+- gcr.io/istio-release/node-agent-k8s:master-20190410-09-16
+- gcr.io/istio-release/mixer_debug:release-1.0-20190410-09-16
+- gcr.io/istio-release/pilot:release-1.0-20190410-09-16
+- gcr.io/istio-release/citadel:master-20190410-09-16
+- gcr.io/istio-release/citadel:release-1.0-20190410-09-16
+- gcr.io/istio-release/servicegraph:release-1.0-20190410-09-16
+- gcr.io/istio-release/kubectl:master-20190410-09-16
+- gcr.io/istio-release/proxy_init:release-1.0-20190410-09-16
+- gcr.io/istio-release/node-agent-test:release-1.0-20190410-09-16
+- gcr.io/istio-release/proxyv2:release-1.0-20190410-09-16
+- gcr.io/istio-release/app:master-20190410-09-16
+- gcr.io/istio-release/app:release-1.0-20190410-09-16
+- gcr.io/istio-release/servicegraph_debug:release-1.0-20190410-09-16
+- gcr.io/istio-release/galley:master-20190410-09-16
+- gcr.io/istio-release/sidecar_injector:release-1.0-20190410-09-16
+- gcr.io/istio-release/galley:release-1.0-20190410-09-16
+- gcr.io/istio-release/proxy_debug:release-1.0-20190410-09-16
