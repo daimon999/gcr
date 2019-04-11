@@ -164,3 +164,17 @@
 - gcr.io/linkerd-io/grafana:git-dfd72aaa
 - gcr.io/linkerd-io/grafana:git-46d1490f
 - gcr.io/linkerd-io/grafana:git-98a74bcc
+### 2019-04-11 17:53:47 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190410162808
+- gcr.io/spinnaker-marketplace/gate:1.8.0-20190410164717
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190410142808
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190410142808
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190411012808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190410162808
+- gcr.io/spinnaker-marketplace/front50:0.17.0-20190410142808
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190410142808
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190410142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190411012808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190410142808
+- gcr.io/spinnaker-marketplace/halyard:1.19.0-20190410142808
