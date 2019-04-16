@@ -77,3 +77,19 @@
 - gcr.io/linkerd-io/cni-plugin:git-3ee494a4
 - gcr.io/linkerd-io/controller:git-3ee494a4
 - gcr.io/linkerd-io/controller:git-11a83968
+### 2019-04-16 17:57:26 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190415133024
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190415162809
+- gcr.io/spinnaker-marketplace/deck:2.8.4-20190415113424
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190416012808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190415133024
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190416012808
+- gcr.io/spinnaker-marketplace/echo:2.4.2-20190416050308
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190416012808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190415133024
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190415162809
+- gcr.io/spinnaker-marketplace/halyard:1.19.1-20190415133024
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.3-20190415113424
+- gcr.io/spinnaker-marketplace/halyard:1.19.1-20190415142808
+- gcr.io/spinnaker-marketplace/halyard:1.19.1-20190415162809
