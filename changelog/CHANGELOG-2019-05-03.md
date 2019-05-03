@@ -105,3 +105,14 @@
 - gcr.io/linkerd-io/web:edge-19.5.1
 - gcr.io/linkerd-io/web:git-cfdfaeba
 - gcr.io/linkerd-io/web:git-5279e2b9
+### 2019-05-03 18:01:25 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190502142808
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190502124638
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190502105957
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190502211050
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190502142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190502182808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190502211050
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190502124638
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190503012808
