@@ -133,3 +133,8 @@
 - gcr.io/linkerd-io/cli-bin:git-d907990f
 - gcr.io/linkerd-io/cli-bin:git-fe183e0c
 - gcr.io/linkerd-io/cli-bin:git-fefe49e1
+### 2019-05-04 18:02:33 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190503162808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190503112955
+- gcr.io/spinnaker-marketplace/halyard:1.20.0-20190503112955
