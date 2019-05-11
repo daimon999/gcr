@@ -198,3 +198,8 @@
 - gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190510102255
 - gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190510182808
 - gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190510165910
+### 2019-05-11 18:13:48 Update:
+
+- gcr.io/distroless/static:a687653980a480e121f2c413e2f233b27d83814a
+- gcr.io/distroless/base:a687653980a480e121f2c413e2f233b27d83814a
+- gcr.io/distroless/cc:a687653980a480e121f2c413e2f233b27d83814a
