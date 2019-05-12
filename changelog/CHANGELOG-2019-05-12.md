@@ -47,3 +47,6 @@
 - gcr.io/istio-release/proxy_debug:release-1.0-20190512-09-16
 - gcr.io/istio-release/proxy_debug:master-20190512-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190512-09-16
+### 2019-05-12 17:59:11 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190511142808
