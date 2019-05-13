@@ -51,3 +51,8 @@
 - gcr.io/istio-release/proxy_init:release-1.1-20190513-09-16
 - gcr.io/istio-release/galley:release-1.0-20190513-09-16
 - gcr.io/istio-release/servicegraph_debug:release-1.0-20190513-09-16
+### 2019-05-13 17:59:28 Update:
+
+- gcr.io/distroless/static:26290e32f6affe7a329f641693d0831e527bef45
+- gcr.io/distroless/base:26290e32f6affe7a329f641693d0831e527bef45
+- gcr.io/distroless/cc:26290e32f6affe7a329f641693d0831e527bef45
