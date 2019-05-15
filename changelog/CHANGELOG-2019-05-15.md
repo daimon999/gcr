@@ -138,3 +138,26 @@
 - gcr.io/istio-release/test_policybackend:release-1.1-20190515-09-16
 - gcr.io/istio-release/node-agent:release-1.0-20190515-09-16
 - gcr.io/istio-release/node-agent-test:release-1.0-20190515-09-16
+### 2019-05-15 18:09:56 Update:
+
+- gcr.io/linkerd-io/controller:git-c85b6e27
+- gcr.io/linkerd-io/proxy:git-4dc20007
+- gcr.io/linkerd-io/cli-bin:git-1357d365
+- gcr.io/linkerd-io/proxy:git-c85b6e27
+- gcr.io/linkerd-io/cli-bin:git-4dc20007
+- gcr.io/linkerd-io/proxy:git-1357d365
+- gcr.io/linkerd-io/proxy-init:git-c85b6e27
+- gcr.io/linkerd-io/controller:git-4dc20007
+- gcr.io/linkerd-io/debug:git-1357d365
+- gcr.io/linkerd-io/debug:git-4dc20007
+- gcr.io/linkerd-io/proxy:ver-traffic-split-demo-10
+- gcr.io/linkerd-io/debug:git-c85b6e27
+- gcr.io/linkerd-io/web:git-c85b6e27
+- gcr.io/linkerd-io/cli-bin:git-c85b6e27
+- gcr.io/linkerd-io/cni-plugin:git-c85b6e27
+- gcr.io/linkerd-io/cni-plugin:git-1357d365
+- gcr.io/linkerd-io/grafana:git-4dc20007
+- gcr.io/linkerd-io/grafana:git-c85b6e27
+- gcr.io/linkerd-io/grafana:git-1357d365
+- gcr.io/linkerd-io/cni-plugin:git-4dc20007
+- gcr.io/linkerd-io/controller:git-1357d365
