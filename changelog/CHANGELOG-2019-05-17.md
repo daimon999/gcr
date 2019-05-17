@@ -243,3 +243,8 @@
 - gcr.io/spinnaker-marketplace/halyard:1.20.1
 - gcr.io/spinnaker-marketplace/halyard:1.20.1-20190516103151
 - gcr.io/spinnaker-marketplace/halyard:1.21.0-20190516112808
+### 2019-05-17 18:30:55 Update:
+
+- gcr.io/distroless/static:c80fac806f5fe10b67f9399e60bd40568487d59f
+- gcr.io/distroless/base:c80fac806f5fe10b67f9399e60bd40568487d59f
+- gcr.io/distroless/cc:c80fac806f5fe10b67f9399e60bd40568487d59f
