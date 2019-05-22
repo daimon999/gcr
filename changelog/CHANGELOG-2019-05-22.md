@@ -47,3 +47,6 @@
 - gcr.io/istio-release/node-agent-test:release-1.0-20190522-09-15
 - gcr.io/istio-release/proxy_debug:master-20190522-09-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20190522-09-15
+### 2019-05-22 18:02:56 Update:
+
+- gcr.io/linkerd-io/proxy:strip-dst-canonical-0
