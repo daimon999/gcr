@@ -50,3 +50,21 @@
 ### 2019-05-22 18:02:56 Update:
 
 - gcr.io/linkerd-io/proxy:strip-dst-canonical-0
+### 2019-05-22 18:10:39 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.9.0-20190521172809
+- gcr.io/spinnaker-marketplace/kayenta:0.8.1-20190522034010
+- gcr.io/spinnaker-marketplace/front50:0.17.1-20190521172809
+- gcr.io/spinnaker-marketplace/front50:0.17.1-20190521142809
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190521172809
+- gcr.io/spinnaker-marketplace/fiat:1.5.1-20190521172809
+- gcr.io/spinnaker-marketplace/igor:1.4.0-20190521172809
+- gcr.io/spinnaker-marketplace/echo:2.4.3-20190522050309
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190521142809
+- gcr.io/spinnaker-marketplace/echo:2.5.1-20190521172809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190521112809
+- gcr.io/spinnaker-marketplace/deck:2.9.1-20190522034010
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190521172809
+- gcr.io/spinnaker-marketplace/clouddriver:4.6.0-20190521142809
+- gcr.io/spinnaker-marketplace/clouddriver:4.6.0-20190521172809
+- gcr.io/spinnaker-marketplace/clouddriver:4.6.0-20190521112809
