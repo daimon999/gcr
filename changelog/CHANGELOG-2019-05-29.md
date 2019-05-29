@@ -251,3 +251,16 @@
 - gcr.io/linkerd-io/controller:git-b9cc66c6
 - gcr.io/linkerd-io/controller:git-f09fa935
 - gcr.io/linkerd-io/controller:git-f9dca700
+### 2019-05-29 18:32:05 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.5.1-20190529034009
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190528112809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190528112809
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190528202809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190528142809
+- gcr.io/spinnaker-marketplace/clouddriver:5.7.0-20190528172809
+- gcr.io/spinnaker-marketplace/echo:2.6.0-20190528202809
+- gcr.io/spinnaker-marketplace/clouddriver:5.7.0-20190528112809
+- gcr.io/spinnaker-marketplace/clouddriver:5.7.0-20190528202809
+- gcr.io/spinnaker-marketplace/clouddriver:5.7.0-20190528142809
+- gcr.io/spinnaker-marketplace/halyard:1.21.0-20190528142809
