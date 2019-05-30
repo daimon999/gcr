@@ -180,3 +180,8 @@
 - gcr.io/spinnaker-marketplace/orca:2.8.0-20190529112809
 - gcr.io/spinnaker-marketplace/clouddriver:5.7.0-20190529142810
 - gcr.io/spinnaker-marketplace/clouddriver:5.7.0-20190529112809
+### 2019-05-30 18:18:58 Update:
+
+- gcr.io/distroless/static:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2
+- gcr.io/distroless/base:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2
+- gcr.io/distroless/cc:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2
