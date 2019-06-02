@@ -62,3 +62,12 @@
 - gcr.io/istio-release/app:release-1.0-20190602-09-16
 - gcr.io/istio-release/app:release-1.1-20190602-09-16
 - gcr.io/istio-release/app:release-1.2-20190602-09-16
+### 2019-06-02 18:15:16 Update:
+
+- gcr.io/linkerd-io/proxy:ver-valgrind-0
+- gcr.io/linkerd-io/proxy:ver-valgrind-2
+- gcr.io/linkerd-io/proxy:ver-valgrind-4
+- gcr.io/linkerd-io/proxy:ver-valgrind-1
+- gcr.io/linkerd-io/proxy:ver-valgrind-3
+- gcr.io/linkerd-io/proxy:ver-valgrind-6
+- gcr.io/linkerd-io/proxy:ver-valgrind-5
