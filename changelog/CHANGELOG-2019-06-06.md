@@ -42,3 +42,6 @@
 - gcr.io/google-containers/conformance-amd64:v1.15.0-beta.2
 - gcr.io/google-containers/conformance-arm64:v1.15.0-beta.2
 - gcr.io/google-containers/conformance-s390x:v1.15.0-beta.2
+### 2019-06-06 18:10:15 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.1
