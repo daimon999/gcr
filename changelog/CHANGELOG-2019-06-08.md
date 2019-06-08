@@ -65,3 +65,12 @@
 - gcr.io/istio-release/app:release-1.0-20190608-09-15
 - gcr.io/istio-release/app:release-1.2-20190608-09-15
 - gcr.io/istio-release/app:release-1.1-20190608-09-15
+### 2019-06-08 18:16:19 Update:
+
+- gcr.io/linkerd-io/proxy:git-24bbd7c6
+- gcr.io/linkerd-io/debug:git-24bbd7c6
+- gcr.io/linkerd-io/grafana:git-24bbd7c6
+- gcr.io/linkerd-io/web:git-24bbd7c6
+- gcr.io/linkerd-io/controller:git-24bbd7c6
+- gcr.io/linkerd-io/cni-plugin:git-24bbd7c6
+- gcr.io/linkerd-io/cli-bin:git-24bbd7c6
