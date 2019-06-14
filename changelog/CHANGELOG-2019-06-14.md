@@ -109,3 +109,12 @@
 - gcr.io/linkerd-io/cli-bin:git-28025eeb
 - gcr.io/linkerd-io/cli-bin:git-374a4dbc
 - gcr.io/linkerd-io/cli-bin:git-b11c7dce
+### 2019-06-14 18:29:05 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190613172809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190613172809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190613112809
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190613202809
+- gcr.io/spinnaker-marketplace/clouddriver:4.6.2-20190614034009
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190613172809
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190613130010
