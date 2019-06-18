@@ -163,3 +163,37 @@
 - gcr.io/linkerd-io/controller:git-3e68ebfc
 - gcr.io/linkerd-io/proxy:ver-protocol-error-fix-0
 - gcr.io/linkerd-io/controller:git-1ec9058f
+### 2019-06-18 18:43:19 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.4.0-20190617153706
+- gcr.io/spinnaker-marketplace/kayenta:0.9.0-20190617153706
+- gcr.io/spinnaker-marketplace/rosco:0.13.0-20190617202809
+- gcr.io/spinnaker-marketplace/rosco:0.13.0-20190617153706
+- gcr.io/spinnaker-marketplace/igor:1.4.0-20190617202809
+- gcr.io/spinnaker-marketplace/igor:1.4.0-20190617134115
+- gcr.io/spinnaker-marketplace/kayenta:0.9.0-20190617202809
+- gcr.io/spinnaker-marketplace/gate:1.8.3-20190618034010
+- gcr.io/spinnaker-marketplace/gate:1.9.0-20190617153706
+- gcr.io/spinnaker-marketplace/gate:1.9.0-20190617172809
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190617092205
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190617202809
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190617172809
+- gcr.io/spinnaker-marketplace/gate:1.9.0-20190617202809
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190617153706
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190617172809
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190617202809
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190618012810
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190617102330
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190617143153
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190617134115
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190617172809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190617143153
+- gcr.io/spinnaker-marketplace/fiat:1.6.0-20190617202809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190617202809
+- gcr.io/spinnaker-marketplace/fiat:1.5.2-20190617153706
+- gcr.io/spinnaker-marketplace/front50:0.18.0-20190617153706
+- gcr.io/spinnaker-marketplace/front50:0.18.0-20190617202809
+- gcr.io/spinnaker-marketplace/echo:2.6.0-20190617153706
+- gcr.io/spinnaker-marketplace/halyard:1.21.0-20190617153706
+- gcr.io/spinnaker-marketplace/halyard:1.21.0-20190617134115
+- gcr.io/spinnaker-marketplace/halyard:1.21.0-20190617202809
